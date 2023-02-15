@@ -7,7 +7,7 @@
 [![PyPI Version](https://img.shields.io/pypi/v/lightgbm.svg?logo=pypi&logoColor=white)](https://pypi.org/project/lightgbm)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12ngDNadTrmApMRvIqsHMCzzS1UZRqRfN?usp=sharing)  
 
-+ Review for **LightGBM** [paper](https://github.com/Mojtaba-Alehosseini/SBU-ML-Fall2022/blob/main/NIPS-2017-lightgbm-a-highly-efficient-gradient-boosting-decision-tree-Paper.pdf).  
++ Review for **LightGBM** [paper](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf).  
 + [Implementation](https://github.com/Mojtaba-Alehosseini/SBU-ML-Fall2022/blob/21dce5a2b61da957d58386f0c4fb7d11ffd6e16a/LightGBM.ipynb) of Gradient Boosting and LightGBM framework on Apple Inc (AAPL) NASDAQ prices [dataset](https://github.com/Mojtaba-Alehosseini/SBU-ML-Fall2022/blob/21dce5a2b61da957d58386f0c4fb7d11ffd6e16a/AAPL%20Historical%20Data.csv).  
 
 <img src=https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg width=300 />
